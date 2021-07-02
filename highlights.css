@@ -1,0 +1,154 @@
+body {    background-color: black;
+
+}
+
+.author-name {
+    color: white;
+    font-family: fantasy;
+    font-weight: 300;
+}
+
+
+/* Istanbul tour*/
+
+.blog1 {
+    color: dodgerblue;
+    border: 10px solid  red;
+    border-radius: 10px;
+    width: 50%;
+    margin: 20px auto;
+    padding: 30px;
+}
+
+.blog-title1 {
+    color: red;
+    font-family: cursive;
+    font-weight: 500;
+    text-align: center;
+}
+
+.blog-paragraph1 {
+    color: dodgerblue;
+    text-align: justify;
+    font-size: 18px;
+} 
+
+/*Saint Martin Tour  */
+
+.blog2 {
+    color: dodgerblue;
+    border: 10px dotted rgb(48, 241, 10);
+    border-radius: 10px;
+    width: 50%;
+    margin: 20px auto;
+    padding: 30px;
+}
+
+.blog-title2 {
+    color: red;
+    font-family: cursive;
+    font-weight: 500;
+    text-align: center;
+}
+
+.blog-paragraph2 {
+    color: dodgerblue;
+    text-align: justify;
+    font-size: 18px;
+} 
+
+/* New zeland Tour */
+
+.blog3 {
+    color: dodgerblue;
+    border: 10px dashed  yellow;
+    border-radius: 10px;
+    width: 50%;
+    margin: 20px auto;
+    padding: 30px;
+}
+
+.blog-title3 {
+    color: red;
+    font-family: cursive;
+    font-weight: 500;
+    text-align: center;
+}
+
+.blog-paragraph3 {
+    color: dodgerblue;
+    text-align: justify;
+    font-size: 18px;
+} 
+
+/*Singapore Tour  */
+
+.blog4 {
+    color: dodgerblue;
+    border: 10px double green;
+    border-radius: 10px;
+    width: 50%;
+    margin: 20px auto;
+    padding: 30px;
+}
+
+.blog-title4 {
+    color: red;
+    font-family: cursive;
+    font-weight: 500;
+    text-align: center;
+}
+
+.blog-paragraph4 {
+    color: dodgerblue;
+    text-align: justify;
+    font-size: 18px;
+} 
+
+/*US Tour  */
+
+.blog5 {
+    color: dodgerblue;
+    border: 10px groove hotpink;
+    border-radius: 10px;
+    width: 50%;
+    margin: 20px auto;
+    padding: 30px;
+}
+
+.blog-title5 {
+    color: red;
+    font-family: cursive;
+    font-weight: 500;
+    text-align: center;
+}
+
+.blog-paragraph5 {
+    color: dodgerblue;
+    text-align: justify;
+    font-size: 18px;
+} 
+
+/*UK Tour  */
+
+.blog6 {
+    color: dodgerblue;
+    border: 10px ridge  red;
+    border-radius: 10px;
+    width: 50%;
+    margin: 20px auto;
+    padding: 30px;
+}
+
+.blog-title6 {
+    color: red;
+    font-family: cursive;
+    font-weight: 500;
+    text-align: center;
+}
+
+.blog-paragraph6 {
+    color: dodgerblue;
+    text-align: justify;
+    font-size: 18px;
+} 
